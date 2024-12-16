@@ -25,7 +25,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="./output/Templete_Ebook 1.pdf" title="View PDF now"><img width="20" src="./assets/ebook.png">  Clique aqui para ler</a>
+<a href="./output/Templete_Ebook 1.pdf" title="View PDF now"><img width="30" src="./assets/ebook.png">  Clique aqui para ler</a>
 
 
 ## 💻 Tecnologias utilizadas no projeto
